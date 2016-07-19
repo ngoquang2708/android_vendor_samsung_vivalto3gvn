@@ -51,6 +51,15 @@ PROPRIETARY_FILES := \
 	lib/libisp.so \
 	lib/libmorpho_facesolid.so \
 	lib/libmorpho_easy_hdr.so \
+	lib/libomx_aacdec_sprd.so \
+	lib/libomx_avcdec_hw_sprd.so \
+	lib/libomx_avcdec_sw_sprd.so \
+	lib/libomx_avcenc_hw_sprd.so \
+	lib/libomx_m4vh263dec_hw_sprd.so \
+	lib/libomx_m4vh263dec_sw_sprd.so \
+	lib/libomx_m4vh263enc_hw_sprd.so \
+	lib/libomx_mp3dec_sprd.so \
+	lib/libomx_vpxdec_hw_sprd.so \
 	lib/hw/camera.scx15.so \
 	lib/hw/camera2.scx15.so \
 	lib/hw/sensors.scx15.so \
