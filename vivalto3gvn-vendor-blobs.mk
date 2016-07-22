@@ -63,6 +63,7 @@ PROPRIETARY_FILES := \
 	lib/hw/camera.scx15.so \
 	lib/hw/camera2.scx15.so \
 	lib/hw/sensors.scx15.so \
+	vendor/firmware/vbc_eq \
 
 PRODUCT_COPY_FILES += \
 	$(foreach f,$(PROPRIETARY_FILES),vendor/samsung/vivalto3gvn/proprietary/$(f):system/$(f))
