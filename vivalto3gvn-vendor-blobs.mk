@@ -16,34 +16,30 @@
 #
 
 PROPRIETARY_FILES := \
-	bin/gpsd \
-	bin/gps.cer \
-	lib/libsprd_agps_agent.so \
-	lib/hw/gps.default.so \
-	lib/libMali.so \
-	lib/libboost.so \
-	lib/egl/libEGL_mali.so \
-	lib/egl/libGLESv1_CM_mali.so \
-	lib/egl/libGLESv2_mali.so \
-	bin/macloader \
-	vendor/firmware/BCM4343A0_001.001.034.0038.0090_ORC_Vivalto-3G_3MC.hcd \
-	bin/rild \
-	bin/modemd \
-	bin/nvitemd \
-	bin/phoneserver \
 	bin/ext_data.sh \
 	bin/ext_kill.sh \
 	bin/ext_symlink.sh \
+	bin/gps.cer \
+	bin/gpsd \
+	bin/macloader \
+	bin/modemd \
+	bin/nvitemd \
+	bin/phoneserver \
 	bin/prepare_param.sh \
-	lib/libril.so \
-	lib/libreference-ril_sp.so \
-	lib/librilutils.so \
-	lib/libsecril-client.so \
-	lib/libsecnativefeature.so \
+	bin/rild \
+	lib/egl/libEGL_mali.so \
+	lib/egl/libGLESv1_CM_mali.so \
+	lib/egl/libGLESv2_mali.so \
+	lib/hw/camera2.scx15.so \
+	lib/hw/camera.scx15.so \
+	lib/hw/gps.default.so \
+	lib/hw/sensors.scx15.so \
 	lib/libatchannel.so \
+	lib/libboost.so \
 	lib/libisp.so \
-	lib/libmorpho_facesolid.so \
+	lib/libMali.so \
 	lib/libmorpho_easy_hdr.so \
+	lib/libmorpho_facesolid.so \
 	lib/libomx_aacdec_sprd.so \
 	lib/libomx_avcdec_hw_sprd.so \
 	lib/libomx_avcdec_sw_sprd.so \
@@ -53,9 +49,13 @@ PROPRIETARY_FILES := \
 	lib/libomx_m4vh263enc_hw_sprd.so \
 	lib/libomx_mp3dec_sprd.so \
 	lib/libomx_vpxdec_hw_sprd.so \
-	lib/hw/camera.scx15.so \
-	lib/hw/camera2.scx15.so \
-	lib/hw/sensors.scx15.so \
+	lib/libreference-ril_sp.so \
+	lib/libril.so \
+	lib/librilutils.so \
+	lib/libsecnativefeature.so \
+	lib/libsecril-client.so \
+	lib/libsprd_agps_agent.so \
+	vendor/firmware/BCM4343A0_001.001.034.0038.0090_ORC_Vivalto-3G_3MC.hcd \
 	vendor/firmware/vbc_eq \
 
 PRODUCT_COPY_FILES += \
