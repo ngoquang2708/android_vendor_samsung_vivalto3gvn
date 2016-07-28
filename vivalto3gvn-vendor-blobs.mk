@@ -42,7 +42,6 @@ PROPRIETARY_FILES := \
 	lib/libsecril-client.so \
 	lib/libsecnativefeature.so \
 	lib/libfactoryutil.so \
-	lib/libomission_avoidance.so \
 	lib/libatchannel.so \
 	lib/libisp.so \
 	lib/libmorpho_facesolid.so \
