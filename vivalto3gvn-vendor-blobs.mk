@@ -40,7 +40,6 @@ PROPRIETARY_FILES := \
 	lib/librilutils.so \
 	lib/libsecril-client.so \
 	lib/libsecnativefeature.so \
-	lib/libfactoryutil.so \
 	lib/libatchannel.so \
 	lib/libisp.so \
 	lib/libmorpho_facesolid.so \
