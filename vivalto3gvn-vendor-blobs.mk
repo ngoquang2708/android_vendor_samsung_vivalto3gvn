@@ -16,7 +16,6 @@
 #
 
 PROPRIETARY_FILES := \
-	bin/refnotify \
 	bin/engpc \
 	lib/libatparser.so \
 	bin/gpsd \
