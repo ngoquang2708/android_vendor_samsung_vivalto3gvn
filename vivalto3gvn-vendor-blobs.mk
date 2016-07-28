@@ -16,7 +16,6 @@
 #
 
 PROPRIETARY_FILES := \
-	bin/at_distributor \
 	bin/refnotify \
 	bin/engpc \
 	lib/libatparser.so \
