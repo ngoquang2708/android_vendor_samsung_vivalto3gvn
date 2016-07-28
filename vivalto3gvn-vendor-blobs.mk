@@ -16,7 +16,6 @@
 #
 
 PROPRIETARY_FILES := \
-	bin/engpc \
 	lib/libatparser.so \
 	bin/gpsd \
 	bin/gps.cer \
