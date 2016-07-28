@@ -16,7 +16,6 @@
 #
 
 PROPRIETARY_FILES := \
-	lib/libatparser.so \
 	bin/gpsd \
 	bin/gps.cer \
 	lib/libsprd_agps_agent.so \
