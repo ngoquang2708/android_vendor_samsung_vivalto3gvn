@@ -17,6 +17,7 @@
 
 PROPRIETARY_FILES := \
 	bin/at_distributor \
+	bin/engpc \
 	bin/ext_data.sh \
 	bin/ext_kill.sh \
 	bin/ext_symlink.sh \
