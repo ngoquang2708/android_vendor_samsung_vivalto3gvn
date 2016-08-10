@@ -16,6 +16,7 @@
 #
 
 PROPRIETARY_FILES := \
+	bin/at_distributor \
 	bin/ext_data.sh \
 	bin/ext_kill.sh \
 	bin/ext_symlink.sh \
@@ -34,11 +35,14 @@ PROPRIETARY_FILES := \
 	lib/hw/gps.default.so \
 	lib/hw/sensors.scx15.so \
 	lib/libatchannel.so \
+	lib/libatparser.so \
 	lib/libboost.so \
+	lib/libfactoryutil.so \
 	lib/libisp.so \
 	lib/libMali.so \
 	lib/libmorpho_easy_hdr.so \
 	lib/libmorpho_facesolid.so \
+	lib/libomission_avoidance.so \
 	lib/libomx_aacdec_sprd.so \
 	lib/libomx_avcdec_hw_sprd.so \
 	lib/libomx_avcdec_sw_sprd.so \
