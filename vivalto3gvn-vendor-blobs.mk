@@ -43,6 +43,7 @@ __vendor_files := \
 	vendor/lib/libsecnativefeature.so \
 	vendor/lib/libsecril-client.so \
 	vendor/lib/libsprd_agps_agent.so \
+	vendor/lib/libstlport.so \
 	vendor/firmware/BCM4343A0_001.001.034.0038.0090_ORC_Vivalto-3G_3MC.hcd \
 	vendor/firmware/vbc_eq \
 
