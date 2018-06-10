@@ -35,7 +35,7 @@ PROPRIETARY_FILES := \
 	lib/hw/camera2.scx15.so \
 	lib/hw/camera.scx15.so \
 	lib/hw/gps.default.so \
-	lib/hw/sensors.vendor.scx15.so \
+	lib/hw/sensors.scx15.so \
 	lib/libatchannel.so \
 	lib/libatparser.so \
 	lib/libboost.so \
