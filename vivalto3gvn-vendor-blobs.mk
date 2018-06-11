@@ -27,7 +27,6 @@ PROPRIETARY_FILES := \
 	bin/modemd \
 	bin/nvitemd \
 	bin/phoneserver \
-	bin/refnotify \
 	bin/rild \
 	lib/egl/libEGL_mali.so \
 	lib/egl/libGLESv1_CM_mali.so \
