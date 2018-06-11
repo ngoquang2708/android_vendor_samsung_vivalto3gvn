@@ -25,7 +25,6 @@ PROPRIETARY_FILES := \
 	bin/gpsd \
 	bin/macloader \
 	bin/modemd \
-	bin/nvitemd \
 	bin/phoneserver \
 	bin/rild \
 	lib/egl/libEGL_mali.so \
