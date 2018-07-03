@@ -53,7 +53,6 @@ PROPRIETARY_FILES := \
 	lib/libomx_vpxdec_hw_sprd.so \
 	lib/libreference-ril_sp.so \
 	lib/libril.so \
-	lib/librilutils.so \
 	lib/libsecnativefeature.so \
 	lib/libsecril-client.so \
 	lib/libsprd_agps_agent.so \
