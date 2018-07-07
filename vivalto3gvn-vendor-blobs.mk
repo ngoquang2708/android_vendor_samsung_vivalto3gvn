@@ -11,7 +11,6 @@ __vendor_files := \
 	vendor/bin/nvitemd \
 	vendor/bin/phoneserver \
 	vendor/bin/refnotify \
-	vendor/bin/rild \
 	vendor/lib/egl/libEGL_mali.so \
 	vendor/lib/egl/libGLESv1_CM_mali.so \
 	vendor/lib/egl/libGLESv2_mali.so \
@@ -38,8 +37,6 @@ __vendor_files := \
 	vendor/lib/libomx_mp3dec_sprd.so \
 	vendor/lib/libomx_vpxdec_hw_sprd.so \
 	vendor/lib/libreference-ril_sp.so \
-	vendor/lib/libril.so \
-	vendor/lib/librilutils.so \
 	vendor/lib/libsecnativefeature.so \
 	vendor/lib/libsecril-client.so \
 	vendor/lib/libsprd_agps_agent.so \
