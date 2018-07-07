@@ -7,10 +7,7 @@ __vendor_files := \
 	vendor/bin/gps.cer \
 	vendor/bin/gpsd \
 	vendor/bin/macloader \
-	vendor/bin/modemd \
-	vendor/bin/nvitemd \
 	vendor/bin/phoneserver \
-	vendor/bin/refnotify \
 	vendor/lib/egl/libEGL_mali.so \
 	vendor/lib/egl/libGLESv1_CM_mali.so \
 	vendor/lib/egl/libGLESv2_mali.so \
