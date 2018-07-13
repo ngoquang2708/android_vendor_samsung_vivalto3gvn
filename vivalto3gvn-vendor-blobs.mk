@@ -15,7 +15,6 @@ __vendor_files := \
 	vendor/lib/hw/camera.scx15.so \
 	vendor/lib/hw/gps.default.so \
 	vendor/lib/hw/sensors.vendor.scx15.so \
-	vendor/lib/libatchannel.so \
 	vendor/lib/libatparser.so \
 	vendor/lib/libboost.so \
 	vendor/lib/libfactoryutil.so \
